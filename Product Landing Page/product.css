@@ -1,0 +1,70 @@
+
+body{
+    height: 100%;
+}
+
+.title1{
+    justify-content: center;
+    display: flex;
+}
+.form{
+    justify-content: center;
+    display: flex;
+}
+.btn{
+    right: 509px;
+}
+#how-it-works{
+    justify-content: center;
+    display: flex;
+    
+}
+
+#how-it-works > iframe {
+    max-width: 560px;
+    width: 100%;
+  }
+
+.card-header{
+    justify-content: center;
+    display: flex;
+}
+.card-title{
+    justify-content: center;
+    display: flex;
+}
+.card-text{
+    justify-content: center;
+    display: flex;
+}
+
+footer {
+    margin-top: 30px;
+    background-color: #ddd;
+    padding: 20px;
+  }
+  
+  footer > ul {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  footer > ul > li {
+    padding: 0 10px;
+  }
+  
+  footer > span {
+    margin-top: 5px;
+    display: flex;
+    justify-content: flex-end;
+    font-size: 0.9em;
+    color: #444;
+  }
+  
+  ul {
+    list-style-type: none;
+}
+
+html>.ico{
+    width: 30px;
+}
